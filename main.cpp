@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-char version[8] = "1.0.0.0";
+char version[8] = "1.0.1.0";
 
 char parameterHelp[7] = "--help";
 char parameterNoLang[10] = "--no-lang";
